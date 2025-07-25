@@ -103,10 +103,10 @@ export default function AdminLoginPage() {
           <div className="mt-6 p-4 bg-blue-50 rounded-lg">
             <p className="text-sm text-blue-800 font-medium mb-2">Credenciales de prueba:</p>
             <p className="text-sm text-blue-700">
-              Usuario: <code className="bg-blue-100 px-1 rounded">admin</code>
+              Usuario: <code className="bg-blue-100 px-1 rounded"></code>
             </p>
             <p className="text-sm text-blue-700">
-              Contraseña: <code className="bg-blue-100 px-1 rounded">mdphoy2024</code>
+              Contraseña: <code className="bg-blue-100 px-1 rounded"></code>
             </p>
           </div>
         </CardContent>
